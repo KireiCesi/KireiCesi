@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KireiCesi, proud new student for CESI ! 
+- 👋 Hi, I’m @KireiCesi (Quentin), proud new student for CESI ! 
 - 👀 I’m interested in Sport, Vidéo-Games, coding and space.
-- 🌱 I’m currently learning code from OpenClassroom on my way 
+- 🌱 I’m currently learning code from OpenClassroom and BootDev !  
 - 💞️ I’m looking to collaborate on everything and currently looking for an Alternance ! 
 - 📫 How to reach me : You can reach me via mail or MP ! 
 - 😄 Pronouns: He
